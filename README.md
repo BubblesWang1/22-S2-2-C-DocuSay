@@ -18,7 +18,7 @@ and automation management on the go. The app would be able to scan text to voice
 
 **Client:**  Jules Wenck
 
-**Project Name:** “Docusay”
+**Project Name:** Docusay
 
 **Project Type:**  ANU TechLauncher
 
@@ -30,11 +30,11 @@ and automation management on the go. The app would be able to scan text to voice
 
 
 ## Project Management Tools
-**Gitlab** - Landing Page&Code Management
+**Github** - [Landing Page](https://github.com/BubblesWang101/22-S2-2-C-DocuSay)&Code Management
 
 **Google Drive** - File Management
 
-**Atlassian** - Project Management
+**[Atlassian](https://docusay-mvp.atlassian.net/jira/software/projects/DOC/boards/1)** - Project Management
 
 **Zoom&Teams** - Client Meeting & Team Meeting
 
@@ -42,14 +42,25 @@ and automation management on the go. The app would be able to scan text to voice
 
 ## Team Members and Roles
 
-| email        |      Name      |                   Role |
+| Email        |      Name      |                   Role |
 |:-----------|:--------------:|-----------------------:|
 | [u7373018@anu.edu.au] |   [Yu Wang]    |      [Product Manager&Spokesman1] |
-| [u7380405@anu.edu.au] | [Zonghai Wang] |          [Test Engineer&Spokesman2] |
+| [u7373018@anu.edu.au] | [Zonghai Wang] |          [Test Engineer&Spokesman2] |
 | [u7348129@anu.edu.au] |  [Yiyang Hou]  | [Development Engineer] |
 | [u7377827@anu.edu.au] |  [Yujing Wu]   |        [UI Designer] |
 | [u7385406@anu.edu.au] |  [Kaiqi Chen]   |        [Data Analytics] |
 | [u7349311@anu.edu.au] |  [Jialiang Chen]   |        [Development Engineer] |
+
+If you have any problem, please feel free to contact Spokensmen(u7373018@anu.edu.au or u7373018@anu.edu.au).
+
+## Weekly Meeting
+
+| Date       |      Time(AEST)      |                   Type |
+|:-----------|:--------------:|-----------------------:|
+| Tuesday |   16:00-18:00    |      Tutorial Meeting |
+| Monday | 12:00-13:00 |          Client Meeting |
+| Saturday&Sunday&Monday |  16:00-17:00  | Team Meeting |
+
 
 ## Statement of Work(SoW)
 * [Statement of Work(SoW)](https://docs.google.com/document/d/1LO3mduzcDH0hMewKPyiFOWcb-KsVyFemUsI9OshUnsg/edit?usp=sharing)
