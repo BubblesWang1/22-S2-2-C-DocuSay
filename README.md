@@ -26,7 +26,9 @@ this is the landing page of DocuSay
 
 ## Log Documentaion
 **Meeting Log** 
+
 [Client Meeting 03/08/2022](#Meeting-Log/Client-Meeting.md) 
+
 [Group Meeting 03/08/2022](#Meeting-Log/Group-Meeting.md) 
 
 
