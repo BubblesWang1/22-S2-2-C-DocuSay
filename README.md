@@ -56,13 +56,13 @@ and automation management on the go. The app would be able to scan text to voice
 
 ## Log Documentaion
 
-* [Client Meeting](Log%20Documentaion/Client%20Meeting.md)
+* [Client Meeting](https://drive.google.com/drive/folders/1banZwxRuo6mF4O48660VpAarxsGCCGvu?usp=sharing)
 
-* [Group Meeting](Log%20Documentaion/Group%20Meeting.md) 
+* [Group Meeting](https://drive.google.com/drive/folders/155b_l6kY5Keyj04WEgtxBJMT9QldqLJ3?usp=sharing)
 
-* [Decision Log](Log%20Documentaion/Decision%20Log.md)
+* [Decision Log](https://docs.google.com/spreadsheets/d/1Iqg1cr03mHQ8mjV4K1RtVOxKEGgUUwRGGmWJf-lLM4M/edit?usp=sharing)
 
-* [Reflection Log](Log%20Documentaion/Decision%20Log.md)
+* [Reflection Log](https://docs.google.com/spreadsheets/d/1GGrTUWTYBK2BI44p9r5sFpu0BAp9f6RMeIxqHIhLiSE/edit?usp=sharing)
 
 
 
