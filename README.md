@@ -30,9 +30,11 @@ and automation management on the go. The app would be able to scan text to voice
 
 
 ## Project Management Tools
-**Github** - Landing Page
+**Gitlab** - Landing Page&Code Management
 
 **Google Drive** - File Management
+
+**Atlassian** - Project Management
 
 **Zoom&Teams** - Client Meeting & Team Meeting
 
@@ -54,7 +56,7 @@ and automation management on the go. The app would be able to scan text to voice
 
 * [Client Meeting](#Log-Documentaion/Client-Meeting.md) 
 
-* [Group Meeting(#Log-DocumentaionGroup-Meeting.md) 
+* [Group Meeting](#Log-Documentaion/Group-Meeting.md) 
 
 * [Decision Log](#Log-Documentaion/Decision-Log.md)
 
