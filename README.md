@@ -56,11 +56,11 @@ and automation management on the go. The app would be able to scan text to voice
 
 * [Client Meeting](Log%20Documentaion/Client%20Meeting.md)
 
-* [Group Meeting](#Log Documentaion/Group Meeting.md) 
+* [Group Meeting](Log%20Documentaion/Group%20Meeting.md) 
 
-* [Decision Log](./Log-Documentaion/Decision-Log.md)
+* [Decision Log](Log%20Documentaion/Decision%20Log.md)
 
-* [Reflection Log](./Log Documentaion/Decision Log.md)
+* [Reflection Log](Log%20Documentaion/Decision%20Log.md)
 
 
 
