@@ -38,6 +38,8 @@ and automation management on the go. The app would be able to scan text to voice
 | [u7380405@anu.edu.au] | [Zonghai Wang] |          [Test Engineer&Spokesman2] |
 | [u7348129@anu.edu.au] |  [Yiyang Hou]  | [Development Engineer] |
 | [u7377827@anu.edu.au] |  [Yujing Wu]   |        [UI Designer] |
+| [u7385406@anu.edu.au] |  [Kaiqi Chen]   |        [Data Analytics] |
+| [u7349311@anu.edu.au] |  [Jialiang Chen]   |        [Development Engineer] |
 
 
 
