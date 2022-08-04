@@ -2,12 +2,12 @@
 this is the landing page of DocuSay
 
 
-## project overview
+## Project Overview
 
 Nowadays, many companies work with paper-based compliance documents, which are prone to errors, poor readability, damage, and destruction, and some industry participants have failed completely to complete proper compliance documentation. The failure of mobile workers to complete and manage documents on the go is costing the Industry millions per week and trillions of dollars per year. The costs include financial losses, legal losses, time losses, security breaches, etc. The project aims to develop a virtual assistant for mobile workers, which is a voice-based form completion for document and automation management on the go, that is Docsay.
 
 
-## project objectives
+## Project Objectives
 
 The Docsay project aims to develop an AI voice-based form completion for documentation
 and automation management on the go. The app would be able to scan text to voice, read the text to voice, do workflow automation, and get analysis and reports. The Docsay app aims to save costs for mobile workers.
@@ -54,13 +54,13 @@ and automation management on the go. The app would be able to scan text to voice
 
 ## Log Documentaion
 
-* [Client Meeting](#Log-Documentaion/Client-Meeting.md) 
+* [Client Meeting](./Log Documentaion/Client Meeting.md)
 
-* [Group Meeting](#Log-Documentaion/Group-Meeting.md) 
+* [Group Meeting](./Log Documentaion/Group Meeting.md) 
 
-* [Decision Log](#Log-Documentaion/Decision-Log.md)
+* [Decision Log](./Log Documentaion/Decision Log.md)
 
-* [Reflection Log](#Log-Documentaion/Decision-Log.md)
+* [Reflection Log](./Log Documentaion/Decision Log.md)
 
 
 
