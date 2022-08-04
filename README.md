@@ -20,6 +20,7 @@ and automation management on the go. The app would be able to scan text to voice
 
 **Project Type:**  ANU TechLauncher
 
+
 ## Project Management Tools
 **Github** - Landing Page
 
@@ -28,6 +29,17 @@ and automation management on the go. The app would be able to scan text to voice
 **Zoom&Teams** - Client Meeting & Team Meeting
 
 **WeChat** - General Discussion & Team Meeting
+
+## Team Members and Roles
+
+| email        |      Name      |                   Role |
+|:-----------|:--------------:|-----------------------:|
+| [u7373018@anu.edu.au] |   [Yu Wang]    |      [Product Manager&Spokesman1] |
+| [u7380405@anu.edu.au] | [Zonghai Wang] |          [Test Engineer&Spokesman2] |
+| [u7348129@anu.edu.au] |  [Yiyang Hou]  | [Development Engineer] |
+| [u7377827@anu.edu.au] |  [Yujing Wu]   |        [UI Designer] |
+
+
 
 ## Log Documentaion
 **Meeting Log** 
