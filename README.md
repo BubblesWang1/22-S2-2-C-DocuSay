@@ -25,7 +25,7 @@ this is the landing page of DocuSay
 **WeChat** - General Discussion & Team Meeting
 
 ## Log Documentaion
-**Meeting Log** - [03/08/2022](../Meeting Log/Client Meeting.md)
+**Meeting Log** - [03/08/2022] (Client-Meeting.md) 
 
 
 
