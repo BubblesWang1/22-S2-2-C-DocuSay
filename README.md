@@ -16,11 +16,17 @@ this is the landing page of DocuSay
 **Project Type:**  ANU TechLauncher
 
 ## Project Management Tools
-**Github** - landing page
+**Github** - Landing Page
+
+**Google Drive** - File Management
 
 **Zoom&Teams** - Client Meeting & Team Meeting
 
 **WeChat** - General Discussion & Team Meeting
+
+## Log Documentaion
+**Meeting Log** - [03/08/2022](Meeting LOg/Client Meeting.md)
+
 
 
 
