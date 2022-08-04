@@ -53,12 +53,13 @@ and automation management on the go. The app would be able to scan text to voice
 ## Log Documentaion
 **Meeting Log** 
 
-[Client Meeting 03/08/2022](#Meeting-Log/Client-Meeting.md) 
+[Client Meeting 03/08/2022](#Log-Documentaion/Client-Meeting.md) 
 
-[Group Meeting 03/08/2022](#Meeting-Log/Group-Meeting.md) 
+[Group Meeting 03/08/2022](#Log-DocumentaionGroup-Meeting.md) 
+
 **Decision Log**
 
-[Decision Log ](#Decision-Log.md)
+[Decision Log ](#Log-Documentaion/Decision-Log.md)
 
 
 
