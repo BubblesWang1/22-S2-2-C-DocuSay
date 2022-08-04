@@ -51,6 +51,8 @@ and automation management on the go. The app would be able to scan text to voice
 | [u7385406@anu.edu.au] |  [Kaiqi Chen]   |        [Data Analytics] |
 | [u7349311@anu.edu.au] |  [Jialiang Chen]   |        [Development Engineer] |
 
+## Statement of Work(SoW)
+* [Statement of Work(SoW)](https://docs.google.com/document/d/1LO3mduzcDH0hMewKPyiFOWcb-KsVyFemUsI9OshUnsg/edit?usp=sharing)
 
 ## Log Documentaion
 
