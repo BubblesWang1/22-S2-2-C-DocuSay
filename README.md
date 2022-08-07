@@ -75,6 +75,11 @@ If you have any problem, please feel free to contact Spokensmen(u7373018@anu.edu
 
 * [Reflection Log](https://docs.google.com/spreadsheets/d/1GGrTUWTYBK2BI44p9r5sFpu0BAp9f6RMeIxqHIhLiSE/edit?usp=sharing)
 
+## Resources
 
+### open dataset：
+* https://commonvoice.mozilla.org/en/datasets
+* https://www.openslr.org/51/
+* http://www.voxforge.org/home/downloads
 
 
