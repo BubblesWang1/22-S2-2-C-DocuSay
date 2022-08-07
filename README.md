@@ -44,12 +44,12 @@ and automation management on the go. The app would be able to scan text to voice
 
 | Email        |      Name      |                   Role |
 |:-----------|:--------------:|-----------------------:|
-| [u7373018@anu.edu.au] |   [Yu Wang]    |      [Product Manager&Spokesman1] |
-| [u7380405@anu.edu.au] | [Zonghai Wang] |          [Test Engineer&Spokesman2] |
-| [u7348129@anu.edu.au] |  [Yiyang Hou]  | [Development Engineer] |
-| [u7377827@anu.edu.au] |  [Yujing Wu]   |        [UI Designer] |
-| [u7385406@anu.edu.au] |  [Kaiqi Chen]   |        [Data Analytics] |
-| [u7349311@anu.edu.au] |  [Jialiang Chen]   |        [Development Engineer] |
+| u7373018@anu.edu.au |   Yu Wang    |      Product Manager&Spokesman1 |
+| u7380405@anu.edu.au | Zonghai Wang |          Test Engineer&Spokesman2 |
+| u7348129@anu.edu.au |  Yiyang Hou  | Development Engineer |
+| u7377827@anu.edu.au |  Yujing Wu   |        UI Designer |
+| u7385406@anu.edu.au |  Kaiqi Chen   |        Data Analytics |
+| u7349311@anu.edu.au |  Jialiang Chen   |        Development Engineer |
 
 If you have any problem, please feel free to contact Spokensmen(u7373018@anu.edu.au or u7380405@anu.edu.au).
 
