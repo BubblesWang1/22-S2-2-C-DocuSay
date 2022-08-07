@@ -4,13 +4,13 @@ this is the landing page of DocuSay
 **Content
 
 * [Project Overview](https://github.com/BubblesWang101/22-S2-2-C-DocuSay/blob/main/README.md#project-overview)
-* [Project Objective](https://github.com/BubblesWang101/22-S2-2-C-DocuSay/blob/main/README.md#project-objective)
+* [Project Objective](https://github.com/BubblesWang101/22-S2-2-C-DocuSay/blob/main/README.md#project-objectives)
 * [General Information](https://github.com/BubblesWang101/22-S2-2-C-DocuSay/blob/main/README.md#general-information)
 * [Project Management Tools](https://github.com/BubblesWang101/22-S2-2-C-DocuSay/blob/main/README.md#project-management-tools)
 * [Team Members and Roles](https://github.com/BubblesWang101/22-S2-2-C-DocuSay/blob/main/README.md#team-members-and-roles)
 * [Weekly Meetings](https://github.com/BubblesWang101/22-S2-2-C-DocuSay/blob/main/README.md#weekly-meetings)
 * [Workflow](https://github.com/BubblesWang101/22-S2-2-C-DocuSay/blob/main/README.md#workflow)
-* [Statement of Work(SoW)](https://github.com/BubblesWang101/22-S2-2-C-DocuSay/blob/main/README.md#statement-of-work(sow))
+* [Statement of Work(SoW)](https://github.com/BubblesWang101/22-S2-2-C-DocuSay/blob/main/README.md#statement-of-worksow)
 * [Resources](https://github.com/BubblesWang101/22-S2-2-C-DocuSay/blob/main/README.md#resources)
 
 ## Project Overview
