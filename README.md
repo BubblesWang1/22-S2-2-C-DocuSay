@@ -1,9 +1,17 @@
 # 22-S2-2-C-DocuSay
 this is the landing page of DocuSay
 
-** Content
-[Project Overview](https://github.com/BubblesWang101/22-S2-2-C-DocuSay/blob/main/README.md#project-overview)
+**Content
 
+* [Project Overview](https://github.com/BubblesWang101/22-S2-2-C-DocuSay/blob/main/README.md#project-overview)
+* [Project Objective](https://github.com/BubblesWang101/22-S2-2-C-DocuSay/blob/main/README.md#project-objective)
+* [General Information](https://github.com/BubblesWang101/22-S2-2-C-DocuSay/blob/main/README.md#general-information)
+* [Project Management Tools](https://github.com/BubblesWang101/22-S2-2-C-DocuSay/blob/main/README.md#project-management-tools)
+* [Team Members and Roles](https://github.com/BubblesWang101/22-S2-2-C-DocuSay/blob/main/README.md#team-members-and-roles)
+* [Weekly Meetings](https://github.com/BubblesWang101/22-S2-2-C-DocuSay/blob/main/README.md#weekly-meetings)
+* [Workflow](https://github.com/BubblesWang101/22-S2-2-C-DocuSay/blob/main/README.md#workflow)
+* [Statement of Work(SoW)](https://github.com/BubblesWang101/22-S2-2-C-DocuSay/blob/main/README.md#statement-of-work(sow))
+* [Resources](https://github.com/BubblesWang101/22-S2-2-C-DocuSay/blob/main/README.md#resources)
 
 ## Project Overview
 
@@ -16,7 +24,7 @@ The Docsay project aims to develop an AI voice-based form completion for documen
 and automation management on the go. The app would be able to scan text to voice, read the text to voice, do workflow automation, and get analysis and reports. The Docsay app aims to save costs for mobile workers.
 
 
-## General
+## General Information
 **Project timeline:** July 2022 - November 2022
 
 **Client:**  Jules Wenck
@@ -56,7 +64,7 @@ and automation management on the go. The app would be able to scan text to voice
 
 If you have any problem, please feel free to contact Spokensmen(u7373018@anu.edu.au or u7380405@anu.edu.au).
 
-## Weekly Meeting
+## Weekly Meetings
 
 | Date       |      Time(AEST)      |                   Type |
 |:-----------|:--------------:|-----------------------:|
@@ -84,7 +92,7 @@ If you have any problem, please feel free to contact Spokensmen(u7373018@anu.edu
 
 ## Resources
 
-### open dataset：
+### Open Datasets：
 * https://commonvoice.mozilla.org/en/datasets
 * https://www.openslr.org/51/
 * http://www.voxforge.org/home/downloads
