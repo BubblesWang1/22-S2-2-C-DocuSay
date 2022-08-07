@@ -61,6 +61,10 @@ If you have any problem, please feel free to contact Spokensmen(u7373018@anu.edu
 | Monday | 12:00-13:00 |          Client Meeting |
 | Saturday&Sunday&Monday |  16:00-17:00  | Team Meeting |
 
+## Workflow
+
+<img width="1124" alt="image" src="https://user-images.githubusercontent.com/102635768/183288344-fc797d3a-064e-4dae-9e46-36a8fe9034c9.png">
+
 
 ## Statement of Work(SoW)
 * [Statement of Work(SoW)](https://docs.google.com/document/d/1LO3mduzcDH0hMewKPyiFOWcb-KsVyFemUsI9OshUnsg/edit?usp=sharing)
