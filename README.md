@@ -7,6 +7,7 @@ this is the landing page of DocuSay
 * [Project Objective](https://github.com/BubblesWang101/22-S2-2-C-DocuSay/blob/main/README.md#project-objectives)
 * [General Information](https://github.com/BubblesWang101/22-S2-2-C-DocuSay/blob/main/README.md#general-information)
 * [Project Management Tools](https://github.com/BubblesWang101/22-S2-2-C-DocuSay/blob/main/README.md#project-management-tools)
+* [Audit](https://github.com/BubblesWang101/22-S2-2-C-DocuSay/blob/main/README.md#audit)
 * [Team Members and Roles](https://github.com/BubblesWang101/22-S2-2-C-DocuSay/blob/main/README.md#team-members-and-roles)
 * [Weekly Meetings](https://github.com/BubblesWang101/22-S2-2-C-DocuSay/blob/main/README.md#weekly-meetings)
 * [Workflow](https://github.com/BubblesWang101/22-S2-2-C-DocuSay/blob/main/README.md#workflow)
