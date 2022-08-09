@@ -47,7 +47,9 @@ and automation management on the go. The app would be able to scan text to voice
 
 **[Atlassian](https://docusay-mvp.atlassian.net/jira/software/projects/DOC/boards/1)** - Project Management
 
-**Zoom&Teams** - Client Meeting & Team Meeting
+**Zoom** - Client Meeting & Team Meeting
+
+**Slack** - General Discussion with Client
 
 **WeChat** - General Discussion & Team Meeting
 
