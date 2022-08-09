@@ -11,7 +11,7 @@ this is the landing page of DocuSay
 * [Team Members and Roles](https://github.com/BubblesWang101/22-S2-2-C-DocuSay/blob/main/README.md#team-members-and-roles)
 * [Weekly Meetings](https://github.com/BubblesWang101/22-S2-2-C-DocuSay/blob/main/README.md#weekly-meetings)
 * [Workflow](https://github.com/BubblesWang101/22-S2-2-C-DocuSay/blob/main/README.md#workflow)
-* [Statement of Work(SoW)](https://github.com/BubblesWang101/22-S2-2-C-DocuSay/blob/main/README.md#statement-of-worksow-ip-aggrement)
+* [Statement of Work(SoW) & IP Aggrement](https://github.com/BubblesWang101/22-S2-2-C-DocuSay/blob/main/README.md#statement-of-worksow--ip-aggrement)
 * [Resources](https://github.com/BubblesWang101/22-S2-2-C-DocuSay/blob/main/README.md#resources)
 
 ## Project Overview
