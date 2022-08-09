@@ -55,7 +55,8 @@ and automation management on the go. The app would be able to scan text to voice
 **WeChat** - General Discussion & Team Meeting
 
 ## Audit
-**[Audit1](https://drive.google.com/drive/folders/1LKmv4bn2qMarV6J3dHBgiLgeadFUe-Ff?usp=sharing)**
+**[Audit1](https://drive.google.com/drive/folders/1LKmv4bn2qMarV6J3dHBgiLgeadFUe-Ff?usp=sharing)** - Week 3
+
 
 ## Team Members and Roles
 
