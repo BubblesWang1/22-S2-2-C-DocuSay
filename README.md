@@ -11,7 +11,7 @@ this is the landing page of DocuSay
 * [Team Members and Roles](https://github.com/BubblesWang101/22-S2-2-C-DocuSay/blob/main/README.md#team-members-and-roles)
 * [Weekly Meetings](https://github.com/BubblesWang101/22-S2-2-C-DocuSay/blob/main/README.md#weekly-meetings)
 * [Workflow](https://github.com/BubblesWang101/22-S2-2-C-DocuSay/blob/main/README.md#workflow)
-* [Statement of Work(SoW)](https://github.com/BubblesWang101/22-S2-2-C-DocuSay/blob/main/README.md#statement-of-worksow)
+* [Statement of Work(SoW)](https://github.com/BubblesWang101/22-S2-2-C-DocuSay/blob/main/README.md#statement-of-worksow-ip-aggrement)
 * [Resources](https://github.com/BubblesWang101/22-S2-2-C-DocuSay/blob/main/README.md#resources)
 
 ## Project Overview
@@ -84,8 +84,9 @@ If you have any problem, please feel free to contact Spokensmen(u7373018@anu.edu
 <img width="1124" alt="image" src="https://user-images.githubusercontent.com/102635768/183288344-fc797d3a-064e-4dae-9e46-36a8fe9034c9.png">
 
 
-## Statement of Work(SoW)
+## Statement of Work(SoW) & IP Aggrement
 * [Statement of Work(SoW)](https://docs.google.com/document/d/1LO3mduzcDH0hMewKPyiFOWcb-KsVyFemUsI9OshUnsg/edit?usp=sharing)
+* [IP Aggrement](https://docs.google.com/document/d/1KWnY-Mu_YgNJXAjQXBI4JyFMWHIEvIUf/edit?usp=sharing&ouid=113058906544221492467&rtpof=true&sd=true)
 
 ## Log Documentaion
 
