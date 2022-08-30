@@ -97,11 +97,11 @@ If you have any problem, please feel free to contact Spokensmen(u7373018@anu.edu
 
 * [Group Meeting](https://drive.google.com/drive/folders/155b_l6kY5Keyj04WEgtxBJMT9QldqLJ3?usp=sharing)
 
-* [Decision Log](https://docs.google.com/spreadsheets/d/1Iqg1cr03mHQ8mjV4K1RtVOxKEGgUUwRGGmWJf-lLM4M/edit?usp=sharing)
+* [Decision Log](https://docs.google.com/spreadsheets/d/1ImKwYlEq6w1GNor_YD0Y21cv76SzBV-7/edit?usp=sharing&ouid=113058906544221492467&rtpof=true&sd=true)
 
-* [Reflection Log](https://docs.google.com/spreadsheets/d/1GGrTUWTYBK2BI44p9r5sFpu0BAp9f6RMeIxqHIhLiSE/edit?usp=sharing)
+* [Reflection Log](https://docs.google.com/spreadsheets/d/1h2XGz2UiTXnODc2VDc3lPMUbwm8jqvp-/edit?usp=sharing&ouid=113058906544221492467&rtpof=true&sd=true)
 
-* [Risk&Issue Log](https://docs.google.com/document/d/16C5RPG1e9BZ-bgxvQdzHqYm5ZNrXraeicGR8osR88M4/edit?usp=sharing)
+* [Risk&Issue Log](https://docs.google.com/spreadsheets/d/1AIV8wCt9VGjrYDx-6tZgPwhV_oApFr2X/edit?usp=sharing&ouid=113058906544221492467&rtpof=true&sd=true)
 
 
 ## Resources
