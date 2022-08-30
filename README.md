@@ -58,6 +58,8 @@ and automation management on the go. The app would be able to scan text to voice
 **[Audit1](https://drive.google.com/drive/folders/1LKmv4bn2qMarV6J3dHBgiLgeadFUe-Ff?usp=sharing)** - Week 3
 - [PCM](https://docs.google.com/document/d/1wKaGLU-btniIPDEmaW6Yr_Af_EKCXhaA/edit?usp=sharing&ouid=113058906544221492467&rtpof=true&sd=true)
 
+**[Audit2](https://docs.google.com/presentation/d/1VGlAKN-CTk-E3Y7umZGZs0nWvc-UZrOp/edit?usp=sharing&ouid=113058906544221492467&rtpof=true&sd=true)** -Week 6
+
 
 ## Team Members and Roles
 
@@ -99,7 +101,7 @@ If you have any problem, please feel free to contact Spokensmen(u7373018@anu.edu
 
 * [Reflection Log](https://docs.google.com/spreadsheets/d/1GGrTUWTYBK2BI44p9r5sFpu0BAp9f6RMeIxqHIhLiSE/edit?usp=sharing)
 
-* [Risk&Issue Log](hhttps://docs.google.com/document/d/16C5RPG1e9BZ-bgxvQdzHqYm5ZNrXraeicGR8osR88M4/edit?usp=sharing)
+* [Risk&Issue Log](https://docs.google.com/document/d/16C5RPG1e9BZ-bgxvQdzHqYm5ZNrXraeicGR8osR88M4/edit?usp=sharing)
 
 
 ## Resources
