@@ -86,7 +86,7 @@ If you have any problem, please feel free to contact Spokensmen(u7373018@anu.edu
 
 
 ## Statement of Work(SoW) & IP Aggrement
-* [Statement of Work(SoW)](https://docs.google.com/document/d/1LO3mduzcDH0hMewKPyiFOWcb-KsVyFemUsI9OshUnsg/edit?usp=sharing)
+* [Statement of Work(SoW)](https://docs.google.com/document/d/16C5RPG1e9BZ-bgxvQdzHqYm5ZNrXraeicGR8osR88M4/edit?usp=sharing)
 * [IP Aggrement](https://docs.google.com/document/d/1KWnY-Mu_YgNJXAjQXBI4JyFMWHIEvIUf/edit?usp=sharing&ouid=113058906544221492467&rtpof=true&sd=true)
 
 ## Log Documentaion
@@ -98,6 +98,9 @@ If you have any problem, please feel free to contact Spokensmen(u7373018@anu.edu
 * [Decision Log](https://docs.google.com/spreadsheets/d/1Iqg1cr03mHQ8mjV4K1RtVOxKEGgUUwRGGmWJf-lLM4M/edit?usp=sharing)
 
 * [Reflection Log](https://docs.google.com/spreadsheets/d/1GGrTUWTYBK2BI44p9r5sFpu0BAp9f6RMeIxqHIhLiSE/edit?usp=sharing)
+
+* [Risk&Issue Log](hhttps://docs.google.com/document/d/16C5RPG1e9BZ-bgxvQdzHqYm5ZNrXraeicGR8osR88M4/edit?usp=sharing)
+
 
 ## Resources
 
