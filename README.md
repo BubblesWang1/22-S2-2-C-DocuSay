@@ -59,6 +59,9 @@ and automation management on the go. The app would be able to scan text to voice
 - [PCM](https://docs.google.com/document/d/1wKaGLU-btniIPDEmaW6Yr_Af_EKCXhaA/edit?usp=sharing&ouid=113058906544221492467&rtpof=true&sd=true)
 
 **[Audit2](https://docs.google.com/presentation/d/1VGlAKN-CTk-E3Y7umZGZs0nWvc-UZrOp/edit?usp=sharing&ouid=113058906544221492467&rtpof=true&sd=true)** -Week 6
+- [Competitor Analysis](https://docs.google.com/document/d/13JtjD-0bb-7wTc4O1Bmu8uk6fNDDb5d4/edit?usp=sharing&ouid=113058906544221492467&rtpof=true&sd=true)
+
+- [User Story Map](https://docs.google.com/spreadsheets/d/1kOLPFefwd3_KGk9G9_ul6PVTZHBXoqFRB7F9fQygPWA/edit?usp=sharing)
 
 
 ## Team Members and Roles
