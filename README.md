@@ -90,7 +90,7 @@ If you have any problem, please feel free to contact Spokensmen(u7373018@anu.edu
 <img width="1124" alt="image" src="https://user-images.githubusercontent.com/102635768/183288344-fc797d3a-064e-4dae-9e46-36a8fe9034c9.png">
 
 
-## Statement of Work(SoW) & IP Aggrement
+## Statement of Work(SoW) and IP Aggrement
 * [Statement of Work(SoW)](https://docs.google.com/document/d/16C5RPG1e9BZ-bgxvQdzHqYm5ZNrXraeicGR8osR88M4/edit?usp=sharing)
 * [IP Aggrement](https://docs.google.com/document/d/1KWnY-Mu_YgNJXAjQXBI4JyFMWHIEvIUf/edit?usp=sharing&ouid=113058906544221492467&rtpof=true&sd=true)
 
@@ -104,7 +104,7 @@ If you have any problem, please feel free to contact Spokensmen(u7373018@anu.edu
 
 * [Reflection Log](https://docs.google.com/spreadsheets/d/1h2XGz2UiTXnODc2VDc3lPMUbwm8jqvp-/edit?usp=sharing&ouid=113058906544221492467&rtpof=true&sd=true)
 
-* [Risk&Issue Log](https://docs.google.com/spreadsheets/d/1AIV8wCt9VGjrYDx-6tZgPwhV_oApFr2X/edit?usp=sharing&ouid=113058906544221492467&rtpof=true&sd=true)
+* [Risk and Issue Log](https://docs.google.com/spreadsheets/d/1AIV8wCt9VGjrYDx-6tZgPwhV_oApFr2X/edit?usp=sharing&ouid=113058906544221492467&rtpof=true&sd=true)
 
 
 ## Resources
