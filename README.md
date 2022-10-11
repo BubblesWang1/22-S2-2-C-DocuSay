@@ -46,8 +46,6 @@ and automation management on the go. The app would be able to scan text to voice
 
 **Google Drive** - File Management
 
-**[Atlassian](https://docusay-mvp.atlassian.net/jira/software/projects/DOC/boards/1)** - Project Management
-
 **Zoom** - Client Meeting & Team Meeting
 
 **Slack** - General Discussion with Client
