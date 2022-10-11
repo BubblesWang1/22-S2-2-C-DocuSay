@@ -83,7 +83,7 @@ and automation management on the go. The app would be able to scan text to voice
 
 - Audits Files
 - Logs
-- Meeting File
+- Meeting Files
 
 
 ## Team Members and Roles
