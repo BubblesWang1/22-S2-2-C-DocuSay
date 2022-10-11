@@ -73,17 +73,17 @@ and automation management on the go. The app would be able to scan text to voice
 ## Handover
 **[Technical Documents](https://drive.google.com/drive/folders/1EuY6l0RqyH4DW22_MaNqluu9Dv2NZwvj?usp=sharing)**
 
--[UI Designs]
--[Elemetors Instruction]
--[Alan API Instruction]
--[Flutter Instruction]
--[Github Instruction]
+- UI Designs
+- Elemetors Instruction
+- Alan API Instruction
+- Flutter Instruction
+- Github Instruction
 
 **[Non-Technical Documents](https://drive.google.com/drive/folders/1w0BjjFyPMwiT9BwfkMmL4CAHfoRsLY77?usp=sharing)**
 
-- [Audits Files]
-- [Logs]
-- [Meeting File]
+- Audits Files
+- Logs
+- Meeting File
 
 
 ## Team Members and Roles
