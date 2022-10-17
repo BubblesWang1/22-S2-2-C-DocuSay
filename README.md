@@ -52,6 +52,8 @@ and automation management on the go. The app would be able to scan text to voice
 
 **WeChat** - General Discussion & Team Meeting
 
+**Trello** - [Project Board](https://trello.com/invite/b/57HBcmPF/683446331b1a9715ecf2ebdb5fb0200f/docisay)
+
 ## Audit
 **[Audit1](https://drive.google.com/drive/folders/1LKmv4bn2qMarV6J3dHBgiLgeadFUe-Ff?usp=sharing)** - Week 3
 - [PCM](https://docs.google.com/document/d/1wKaGLU-btniIPDEmaW6Yr_Af_EKCXhaA/edit?usp=sharing&ouid=113058906544221492467&rtpof=true&sd=true)
